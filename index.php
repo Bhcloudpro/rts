@@ -111,7 +111,7 @@ table { margin:10px 0;}
        </th>
         <th width="590" scope="col" align="right">
         <div align="right">
-        <a href="indexs.php">
+        <a href="ind.php">
         <img src="button-clipart-login-8.png" alt="Image result for user login png" width="396" height="367"/>
         </a>
         </th>
